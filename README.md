@@ -1,5 +1,5 @@
 ## Base information 👋
-Tusen C++ sofeware deleloper.
+Tusen C++ sofeware developer.
 
 <!--
 **z-learner/z-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
