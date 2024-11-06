@@ -1,6 +1,7 @@
 ## Base information 👋
-Tusen C++ sofeware developer.
+Loving Programming.
 
+C++, Python, and learning rust for fun.
 <!--
 **z-learner/z-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
